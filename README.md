@@ -7,11 +7,10 @@ Most of the modes written so far were specially designed to work in a QWERTY key
 If you would like to use them, adding this to your config file will do the trick (don't forget to change the path to the files, according to your set up):
 
 
-```
+```{elisp}
 ;; Custom Input Methods
 (add-to-list 'load-path "~/.doom.d/leim/ie-maps/")
-(require 'akkadian)
-(require 'armenian-input)
+(require 'armenian)
 (require 'vedic-hk)
 (require 'vedic-deva)
 (require 'pie)
