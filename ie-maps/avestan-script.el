@@ -1,3 +1,12 @@
+;;;
+;;; Avestan (script): An Avestan transliteration scheme for emacs, from
+;;; latin script to avestan.
+;;;
+;;; AUTHOR: Caio Aguida 
+;;; EMAIL: caioaguida@protonmail.com
+;;; TWITTER: @silenus32
+;;;
+
 (require 'quail)
 (quail-define-package
   "avestan-script" "Avestan Script" "𐬀" nil

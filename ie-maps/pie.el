@@ -1,7 +1,7 @@
 ;;;
 ;;; PIE: A Proto-Indo-European transliteration scheme for emacs.
 ;;;
-;;; AUTHOR: Caio Geraldes 
+;;; AUTHOR: Caio Aguida 
 ;;; EMAIL: caioaguida@protonmail.com
 ;;; TWITTER: @silenus32
 ;;;

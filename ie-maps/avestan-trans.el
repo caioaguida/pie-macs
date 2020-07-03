@@ -1,3 +1,11 @@
+;;;
+;;; Avestan (trans) An Avestan transliteration scheme for emacs.
+;;;
+;;; AUTHOR: Caio Aguida 
+;;; EMAIL: caioaguida@protonmail.com
+;;; TWITTER: @silenus32
+;;;
+
 (require 'quail)
 (quail-define-package
  "avestan-trans" "Avestan Script" "ā̊" nil

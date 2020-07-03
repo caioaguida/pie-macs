@@ -1,4 +1,11 @@
-;;; ~/.doom.d/leim/quail/vedic-hk.el -*- lexical-binding: t; -*-
+;;;
+;;; Vedic (HK): A transliteration scheme for Vedic Sanskrit from HK to IAST."
+;;;
+;;; AUTHOR: Caio Aguida 
+;;; EMAIL: caioaguida@protonmail.com
+;;; TWITTER: @silenus32
+;;;
+
 
 (require 'quail)
 
