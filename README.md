@@ -12,9 +12,10 @@ If you would like to use them, adding this to your config file will do the trick
 (add-to-list 'load-path "/path/path/path/ie-maps/")
 (require 'armenian)
 (require 'vedic-hk)
-(require 'vedic-deva)
 (require 'pie)
 (require 'glagolitic)
 (require 'avestan-trans)
 (require 'avestan-script)
 ```
+
+If you have a more elegant solution for including new mappings or would like to add some other mappings to this, please feel free to do so.
