@@ -9,7 +9,7 @@ If you would like to use them, adding this to your config file will do the trick
 
 ```{elisp}
 ;; Custom Input Methods
-(add-to-list 'load-path "~/.doom.d/leim/ie-maps/")
+(add-to-list 'load-path "/path/path/path/ie-maps/")
 (require 'armenian)
 (require 'vedic-hk)
 (require 'vedic-deva)
