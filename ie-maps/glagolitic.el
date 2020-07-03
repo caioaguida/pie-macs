@@ -6,7 +6,7 @@
 ;;; TWITTER: @silenus32
 ;;;
 
-(require 'quail")
+(require 'quail)
 (quail-define-package
  "glagolitic" "Glagolitic" "Ⰰ" nil
  "A transliteration scheme for Glagolitic characters."
