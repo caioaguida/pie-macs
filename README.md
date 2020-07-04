@@ -8,16 +8,8 @@ If you would like to use them, adding this to your config file will do the trick
 
 ```{elisp}
 ;; PIE-macs input methods
-(add-to-list 'load-path "/path/path/path/ie-maps/")
-(require 'armenian)
-(require 'vedic-hk)
-(require 'pie)
-(require 'glagolitic)
-(require 'avestan-trans)
-(require 'avestan-script)
-(require 'old-persian)
-(require 'oscan)
-(require 'gothic)
+(add-to-list 'load-path "/path/path/path/pie-macs/")
+(require 'pie-macs)
 ```
 
 So far, the mappings cover:
