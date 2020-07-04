@@ -6,7 +6,7 @@ Most of the modes written so far were specially designed to work in a QWERTY key
 Change the */path/path* bellow to the path where you installed the *pie-macs/* (do not include *pie-macs/* to your path).
 
 
-```{elisp}
+```{lisp}
 ;; PIE-macs input methods
 (let ((default-directory  "/path/path/"))
   (normal-top-level-add-subdirs-to-load-path))
