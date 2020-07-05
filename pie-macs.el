@@ -25,5 +25,6 @@
 (require 'old-persian) ; Old Persian Cuneiform
 (require 'oscan) ; Oscan Script
 (require 'gothic) ; Gothic Script
+(require 'linearb) ; Mycenaean Linear B Script
 
 (provide 'pie-macs)
