@@ -40,7 +40,7 @@ The best solution to my knowledge is the package [unicode-fonts](https://github.
 including the following lines in my config did the job.
 The first time you open Emacs with this package takes a while (+3mins), as mentioned in its documentation.
 
-``` lisp
+``` elisp
 (package! unicode-fonts)
 (require 'unicode-fonts)
 (unicode-fonts-setup)
