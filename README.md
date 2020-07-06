@@ -23,7 +23,7 @@ So far, the mappings cover:
  - Old Persian Cuneiform (old-persian)
  - Vedic: Harvard-Kyoto transliteration to IAST (vedic-hk)
  - Gothic (gothic)
- - Mycenaean Linear B Script
+ - Mycenaean Linear B Script (linearb)
 
 If you have a more elegant solution for including new mappings or would like to add some other mappings to this, please feel free to do so.
 
