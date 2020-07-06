@@ -21,7 +21,7 @@ So far, the mappings cover:
 Change the */path/path* bellow to the path where you installed the *pie-macs/* (do not include *pie-macs/* to your path).
 
 
-```{lisp}
+```{elisp}
 ;; PIE-macs input methods
 (let ((default-directory  "/path/path/"))
   (normal-top-level-add-subdirs-to-load-path))
