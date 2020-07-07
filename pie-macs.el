@@ -25,6 +25,7 @@
 (require 'old-persian) ; Old Persian Cuneiform
 (require 'oscan) ; Oscan Script
 (require 'gothic) ; Gothic Script
+(require 'polytonicgreek) ; Polytonic Greek
 (require 'linearb) ; Mycenaean Linear B Script
 (require 'cipriot) ; Cipriot Greek Syllabary
 

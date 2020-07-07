@@ -17,6 +17,7 @@ So far, the mappings cover:
  - Vedic: Harvard-Kyoto transliteration to IAST (vedic-hk)
  - Gothic (gothic)
  - Greek:
+    - Polytonic Greek (polytonicgreek)
     - Mycenaean Linear B Script (linearb)
     - Cipriot Syllabary (cipriot)
 
