@@ -14,7 +14,9 @@ So far, the mappings cover:
  - Old Persian Cuneiform (old-persian)
  - Vedic: Harvard-Kyoto transliteration to IAST (vedic-hk)
  - Gothic (gothic)
- - Mycenaean Linear B Script (linearb)
+ - Greek:
+    - Mycenaean Linear B Script (linearb)
+    - Cipriot Syllabary (cipriot)
 
 ## Configuration
 

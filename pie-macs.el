@@ -26,5 +26,6 @@
 (require 'oscan) ; Oscan Script
 (require 'gothic) ; Gothic Script
 (require 'linearb) ; Mycenaean Linear B Script
+(require 'cipriot) ; Cipriot Greek Syllabary
 
 (provide 'pie-macs)
