@@ -49,3 +49,6 @@ The first time you open Emacs with this package takes a while (+3mins), as menti
 (require 'unicode-fonts)
 (unicode-fonts-setup)
 ```
+
+Some glyphs are made by combining two or more characters with unicode and this might raise issues for the layout engine. I archieved a proper result in my configuration by using the patched version of Noto Sans Mono as available in [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts). I recommend reading this [FAQ](https://unicode.org/faq/char_combmark.html#12b) for more information about (thankfuly brought to my attention by [@FakeUnicode](https://twitter.com/FakeUnicode)).
+
