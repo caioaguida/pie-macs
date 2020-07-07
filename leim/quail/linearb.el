@@ -13,7 +13,7 @@
 (require 'quail)
 
 (quail-define-package
- "linearb" "Linear B" "" nil
+ "linearb" "Linear B" "𐂃" nil
  "A transliteration scheme for Linear B"
  nil t t t t nil nil nil nil nil t)
 

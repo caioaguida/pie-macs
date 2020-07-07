@@ -27,6 +27,6 @@
 (require 'gothic) ; Gothic Script
 (require 'polytonicgreek) ; Polytonic Greek
 (require 'linearb) ; Mycenaean Linear B Script
-(require 'cipriot) ; Cipriot Greek Syllabary
+(require 'cypriot) ; Cypriot Syllabary
 
 (provide 'pie-macs)

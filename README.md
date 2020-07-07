@@ -19,7 +19,7 @@ So far, the mappings cover:
  - Greek:
     - Polytonic Greek (polytonicgreek)
     - Mycenaean Linear B Script (linearb)
-    - Cipriot Syllabary (cipriot)
+    - Cypriot Syllabary (cypriot)
 
 ## Configuration
 

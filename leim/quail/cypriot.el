@@ -1,5 +1,5 @@
 ;;;
-;;; Cipriot: A Cipriot transliteration scheme for emacs.
+;;; Cypriot: A Cypriot transliteration scheme for emacs.
 ;;;
 ;;; AUTHOR: Caio Aguida
 ;;; EMAIL: caioaguida@protonmail.com
@@ -9,8 +9,8 @@
 (require 'quail)
 
 (quail-define-package
- "cipriot" "Cipriot" "𐌀𐌚" nil
- "A transliteration scheme for Cipriot characters."
+ "cypriot" "Cypriot" "𐠀" nil
+ "A transliteration scheme for Cypriot characters."
  nil t t t t nil nil nil nil nil t)
 
 (quail-define-rules
@@ -42,6 +42,11 @@
   ("mi" "𐠖")
   ("mo" "𐠗")
   ("mu" "𐠘")
+  ("na" "𐠙")
+  ("ne" "𐠚")
+  ("ni" "𐠛")
+  ("no" "𐠜")
+  ("nu" "𐠝")
   ("ksa" "𐠷")
   ("kse" "𐠸")
   ("pa" "𐠞")
@@ -66,4 +71,4 @@
   ("tu" "𐠱")
 )
 
-(provide 'cipriot)
+(provide 'cypriot)

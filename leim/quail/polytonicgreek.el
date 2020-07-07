@@ -287,4 +287,4 @@
   (",San" ["Ϻ"])
 )
 
-(provide 'poltonicygreek)
+(provide 'polytonicgreek)
