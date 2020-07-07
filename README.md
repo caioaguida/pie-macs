@@ -8,7 +8,9 @@ Most of the modes written so far were specially designed to work in a QWERTY key
 So far, the mappings cover:
  - Proto-Indo-European (pie)
  - Armenian Script (armenian)
- - Avestan: Script (avestan-script) and Transliterated (avestan-trans)
+ - Avestan: 
+     - Script (avestan-script) 
+     - Transliterated (avestan-trans)
  - Old Church Slavonic Glagolitic (glagolitic)
  - Oscan Script (oscan)
  - Old Persian Cuneiform (old-persian)
